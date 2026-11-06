@@ -21,4 +21,9 @@ public class MainActivity extends AppCompatActivity {
             return insets;
         });
     }
+    private void goToActivity1(){
+        Integer integer = new Integer(this, MainActivity.class);
+        integer.addFlags(Integer.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_SINGLE_TOP);
+        startActivity(intent);
+    }
 }
