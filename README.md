@@ -24,3 +24,7 @@ med zasloni in uporaba potezne navigacije.
 - XML
 
 ## Končni izdelek
+<img width="270" height="598" alt="activity_081549_full_small" src="https://github.com/user-attachments/assets/7364f749-c518-42bb-a5b0-042595805738" />
+<img width="270" height="598" alt="activity_081621_full_small" src="https://github.com/user-attachments/assets/99f3c2d8-6237-4f28-8661-b13097f9f8ea" />
+<img width="270" height="598" alt="activity_081652_full_small" src="https://github.com/user-attachments/assets/4ab11b4d-86be-4bd2-afc7-7949e6c1e370" />
+
